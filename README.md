@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack  
 **Languages:** Python, C++, R  
-**Frameworks & Tools:** PyTorch, TensorFlow, FastAPI, LangChain, YOLO, Docker  
+**Frameworks & Tools:** PyTorch, TensorFlow, FastAPI, LangChain, LangGraphs, YOLO, Docker  
 **Databases & Cloud:** MySQL, Pinecone, FAISS, AWS, Google Cloud  
 **Other:** Data Visualization, AI Agents, Multithreading, Git/GitHub  
 
